@@ -21,5 +21,5 @@
 ### Reminder
 > This program can run successfully in the Java17 environment
 >
-> If you like this program, can you give me a star?
+> If you like this program, can you give me a Starred?
 >thank you!
